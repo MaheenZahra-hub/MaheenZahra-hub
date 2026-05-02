@@ -1,34 +1,32 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&height=150&color=1a1b27&text=MAHEEN%20ZAHRA&fontSize=60&fontAlignY=40&desc=Logic%20x%20Design&descAlignY=60&descSize=20" />
-</div>
-
----
-
-### 🎨 The Intersection of Logic & Design
-I spent my early career making things look beautiful; now, I’m learning how to make them work under the hood. I specialize in turning complex algorithms into clean, efficient code.
-
-- 🔭 **Focus:** Mastering Data Structures & High-Performance C++
-- 🖋️ **Writing:** Documenting my "A+" journey and technical deep-dives
-- 🎬 **Creative:** Bringing storytelling to the tech space
-
----
-
-### 💻 Technical Toolkit
-
-**Development**  
-![](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
-![](https://img.shields.io/badge/Data_Structures-%23FF6F61.svg?style=for-the-badge)
-
-**Design**  
-![](https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
-![](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![](https://img.shields.io/badge/UI/UX-%2300C4CC.svg?style=for-the-badge)
-
----
-
-### ⚡ Performance Metrics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MaheenZahra-hub&show_icons=true&theme=tokyonight&hide_border=true&title_color=7928ca&icon_color=ff0055" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheenZahra-hub&layout=compact&theme=tokyonight&hide_border=true&title_color=7928ca" height="160" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=1a1b27&height=180&section=header&text=MAHEEN%20ZAHRA&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%" />
+</p>
+
+### 01 / PROFILE
+**Computer Science student with a professional background in Graphic Design.** I focus on writing high-performance logic that is as refined as the UI. Currently optimizing algorithms and documenting technical deep-dives with an A+ touch.
+
+---
+
+### 02 / TECH STACK
+**Engineering:** `C++` `Python` `Data Structures` `Algorithm` `Database`   
+**Design:** `Photoshop` `Figma` `UI/UX` `Magazine Layout`
+
+---
+
+### 03 / CURRENT WORK
+*   **[DSA]** → Implementation of Sorting Algorithms (Merge, Quick, Insertion).
+*   **[Research]** → Digital Succession & Privacy Law study in Pakistan.
+*   **[Systems]** → Database management and Computer Architecture.
+
+---
+
+### 04 / STATUS
+- 🎓 **Degree:** Pursing Bachelors in Computer Science
+- 🖋️ **Writing:** Tech articles, short stories, and my first novel.
+- ✨ **Motto:** Execution over everything.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MaheenZahra-hub&label=VISITOR_ID&color=ffffff&style=flat-square" />
 </p>
