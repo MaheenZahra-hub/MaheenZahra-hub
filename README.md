@@ -1,12 +1,10 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=1a1b27&height=200&section=header&text=MAHEEN%20ZAHRA&fontSize=65&fontColor=ffffff&animation=fadeIn" width="100%" />
-</p>
+# 👩‍💻 MAHEEN ZAHRA
 
-<h3 align="center">CS Student • Builder • Writer</h3>
+### CS Student • Builder • Writer
 
 ---
 
-## About
+## 📖 About
 
 I build a strong foundation in computer science by focusing on **data structures, algorithms, and system-level thinking**.
 
@@ -16,27 +14,27 @@ No hype, just consistent work and visible progress.
 
 ---
 
-## Focus
+## 🎯 Focus
 
-* Data Structures & Algorithms (implementation + problem solving)
-* Core CS: Databases, Computer Architecture
-* Research: Digital privacy & data ownership in Pakistan
+* 🏗️ **Data Structures & Algorithms** — Implementation and intensive problem-solving.
+* 💻 **Core CS** — Databases and Computer Architecture.
+* 🔍 **Research** — Digital privacy and data ownership in Pakistan.
 
 ---
 
-## Projects
+## 📂 Projects
 
-* **Systems & Applications**
-  Built projects including a Flight Management System, Student Record Management System, and Quiz Games in both C++ and Assembly
+* 🛠️ **Systems & Applications**
+  Built projects including a Flight Management System, Student Record Management System, and Quiz Games in both C++ and Assembly.
 
-* **Digital Privacy Research**
-  Study on legal gaps in digital succession and data ownership
+* 📜 **Digital Privacy Research**
+  Study on legal gaps in digital succession and data ownership.
 
 *(More coming — building in public)*
 
 ---
 
-## Stack
+## 🛠️ Stack
 
 **Core:**
 `C++` `Python` `SQL`
@@ -46,20 +44,21 @@ No hype, just consistent work and visible progress.
 
 ---
 
-## Philosophy
+## 💭 Philosophy
 
 > Good code is not clever. It’s clear, predictable, and holds up under pressure.
 
 ---
 
-## Current Status
+## 📍 Current Status
 
-* BS Computer Science (in progress)
-* Writing: tech + fiction
-* Showing up daily, even when it’s boring
+* 🎓 **BS Computer Science** — In progress.
+* 🖋️ **Writing** — Tech articles, short stories, and fiction.
+* ⚡ **Commitment** — Showing up daily, even when it’s boring.
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MaheenZahra-hub&label=Profile%20Views&color=ffffff&style=flat-square" />
+  👀 <b>Profile Views:</b> 
+  <img src="https://komarev.com/ghpvc/?username=MaheenZahra-hub&label=%20&color=ffffff&style=flat-square" />
 </p>
