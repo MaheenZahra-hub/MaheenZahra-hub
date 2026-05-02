@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>MAHEEN ZAHRA</h1>
-  <p><b>Computer Science @ University | Former Graphic Designer | Problem Solver</b></p>
+  <img src="https://capsule-render.vercel.app/render?type=rect&height=150&color=1a1b27&text=MAHEEN%20ZAHRA&fontSize=60&fontAlignY=40&desc=Logic%20x%20Design&descAlignY=60&descSize=20" />
 </div>
 
 ---
@@ -16,16 +15,20 @@ I spent my early career making things look beautiful; now, I’m learning how to
 
 ### 💻 Technical Toolkit
 
-| Category | Skills |
-| :--- | :--- |
-| **Development** | `C++` `Python` `Data Structures` `Algorithms` |
-| **Design** | `Photoshop` `Figma` `UI/UX Layout` `Visual Storytelling` |
-| **Current Focus** | `Automata Theory` `Computer Architecture` `Database Systems` |
+**Development**  
+![](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
+![](https://img.shields.io/badge/Data_Structures-%23FF6F61.svg?style=for-the-badge)
+
+**Design**  
+![](https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
+![](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![](https://img.shields.io/badge/UI/UX-%2300C4CC.svg?style=for-the-badge)
 
 ---
 
 ### ⚡ Performance Metrics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MaheenZahra-hub&show_icons=true&theme=transparent&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=71717a" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheenZahra-hub&layout=compact&theme=transparent&hide_border=true&title_color=0891b2&text_color=71717a" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=MaheenZahra-hub&show_icons=true&theme=tokyonight&hide_border=true&title_color=7928ca&icon_color=ff0055" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheenZahra-hub&layout=compact&theme=tokyonight&hide_border=true&title_color=7928ca" height="160" />
 </p>
