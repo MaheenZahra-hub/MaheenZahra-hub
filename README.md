@@ -57,8 +57,3 @@ No hype, just consistent work and visible progress.
 * ⚡ **Commitment** — Showing up daily, even when it’s boring.
 
 ---
-
-<p align="center">
-  👀 <b>Profile Views:</b> 
-  <img src="https://komarev.com/ghpvc/?username=MaheenZahra-hub&label=%20&color=ffffff&style=flat-square" />
-</p>
