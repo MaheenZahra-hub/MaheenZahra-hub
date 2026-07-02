@@ -7,8 +7,6 @@ I build a strong foundation in computer science by focusing on **data structures
 
 With a background in design, I don’t just write code — I care how it’s structured, readable, and usable.
 
-No hype, just consistent work and visible progress.
-
 ---
 
 ## 📂 Projects
@@ -17,16 +15,16 @@ No hype, just consistent work and visible progress.
   Built projects including a Flight Management System, Student Record Management System, and Quiz Games in both C++ and game in Assembly.
 
 * 📜 **Digital Privacy Research**
-  Study on legal gaps in digital succession and data ownership.
+  Study on legal gaps in digital succession and data ownership. 
 
 ---
 
 ## 🛠️ Stack
 
 **Core:**
-`C++` `Python` `SQL`
+`C++` `Python` `SQL` `HTML` `CSS`
 
 **Tools & Design:**
-`Figma` `Photoshop` `Canva` `Cisco`
+`Figma` `Canva` `Cisco`
 
 ---
