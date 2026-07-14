@@ -3,9 +3,9 @@
 
 ## 📖 About
 
-I build a strong foundation in computer science by focusing on **data structures, algorithms, and system-level thinking**.
+I build a strong foundation in computer science by focusing on **data structures, algorithms, and system-level thinking**.    
 
-With a background in design, I don’t just write code — I care how it’s structured, readable, and usable.
+With a background in design, I don’t just write code — I care how it’s structured, readable, and usable.    
 
 ---
 
