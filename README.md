@@ -22,7 +22,7 @@ With a background in design, I don’t just write code — I care how it’s str
 ## 🛠️ Stack
 
 **Core:**
-`C++` `Python` `SQL` `HTML` `CSS`
+`C++` `Python` `SQL` `HTML` `CSS` `JavaScript`
 
 **Tools & Design:**
 `Figma` `Canva` `Cisco`
